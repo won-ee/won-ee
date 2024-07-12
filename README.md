@@ -6,10 +6,4 @@
     height="120"
   />
 </a>
-  <div>
-  </a>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=won-ee&show_icons=true&theme=graywhite"
-  />
-</div>
 </div>
