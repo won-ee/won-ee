@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jjinueng&show_icons=true&theme=transparent&hide="/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=won-ee&show_icons=true&theme=transparent&hide="/>
 
   ### 🐹 won-ee's GITHUB 🐹
 
