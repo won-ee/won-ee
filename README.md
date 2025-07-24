@@ -1,7 +1,13 @@
 
 
 <div align="center">
-
+  
+  <img
+    align="right"
+    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yud01063"
+    height="150"
+    alt="solved.ac"
+  />
 
   ### 🐹 won-ee's GITHUB 🐹
 
@@ -14,14 +20,11 @@
 <sub>**☁️ 삼성 청년 SW 아카데미 ☁️**</sub> <sub><sub>(2024.01. ~ 2024.12.)</sub></sub> <br />
 <sub>**🏫 한국방송통신대학교 - 컴퓨터과학과 🏫**</sub> <sub><sub>(2025.03. ~ ing)</sub></sub><br />
 <sub>**☀️ NHN ACADEMY - Java BackEnd 과정 ☀️**</sub> <sub><sub>(2025.02. ~ 2025.07.)</sub></sub>
-<img
+
 
 <br />
 </div>
-  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yud01063"
-  height="150"
-  alt="solved.ac"
-/>
+
 </div>
 
  ---
@@ -29,11 +32,12 @@
 <br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=won-ee&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=won-ee&show_icons=true&theme=transparent&hide="/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=won-ee&show_icons=true&theme=transparent&hide="/>
 
 <div align="left">
   
-
+ ---
 
 ### MAIN STACK🛠️
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
