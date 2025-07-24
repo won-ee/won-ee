@@ -1,11 +1,7 @@
 
 
 <div align="center">
-<img
-  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yud01063"
-  height="150"
-  alt="solved.ac"
-/>
+
 
   ### 🐹 won-ee's GITHUB 🐹
 
@@ -18,7 +14,11 @@
 <sub>**☁️ 삼성 청년 SW 아카데미 ☁️**</sub> <sub><sub>(2024.01. ~ 2024.12.)</sub></sub> <br />
 <sub>**🏫 한국방송통신대학교 - 컴퓨터과학과 🏫**</sub> <sub><sub>(2025.03. ~ ing)</sub></sub><br />
 <sub>**☀️ NHN ACADEMY - Java BackEnd 과정 ☀️**</sub> <sub><sub>(2025.02. ~ 2025.07.)</sub></sub>
-
+<img
+  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yud01063"
+  height="150"
+  alt="solved.ac"
+/>
 <br />
 </div>
 </div>
