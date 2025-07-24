@@ -11,10 +11,6 @@
 
   ### 🐹 won-ee's GITHUB 🐹
 
- <a href="https://solved.ac/yud01063"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yud01063"/></a>
- <a href="https://velog.io/@won_e/posts"><img src="https://img.shields.io/badge/TISTORY BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a><br>
-
-
 <div align="left">
   
 <sub>**☁️ 삼성 청년 SW 아카데미 ☁️**</sub> <sub><sub>(2024.01. ~ 2024.12.)</sub></sub> <br />
